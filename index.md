@@ -1,4 +1,4 @@
-Mytri's First CS193 Homework
+# Mytri's First CS193 Homework
 
 ## Introduction:
 
