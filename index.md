@@ -1,6 +1,15 @@
-## This is all about me!
+### This is all about me!
 
-##Introduction:
+## Introduction:
+
+My name is Mytri Rajendran. I am a freshman attending Purdue in Indianapolis, hoping to graduate with a bachelor's degree in computer science by 2029. Here's a bit about me:
+
+- __Name:__ Mytri Rajendran
+- __From:__ India
+- __Age:__ 18
+- __Hobbies:__ Drawing, reading, watching movies on netflix, going out for walks
+- __Major:__ BS in computer science
+- __Website for more details:__ [https://example.com]
 
 ### Markdown
 
