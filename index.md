@@ -10,8 +10,8 @@ A couple of things I like about CS 193:
 - __The professors:__ Unlike most f my other classes, the professors in this course are actually students like us. Just a bonus, having people the same age as us teaching us will not only make course material more relatable, but also reduce power hirearchies in lectures and enhance comfort when asking doubts.
 - __And...yeah!:__ Not much else I can say, I've only had one CS 193 lecture...
 
-Here is a random picture:
+**BONUS:** Here is a random picture:
 
 ![Stock image of a scenic view](https://plus.unsplash.com/premium_photo-1668024966086-bd66ba04262f?q=80&w=2692&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-NOTE: All formatting elements had been referenced using the following github documentation website: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+NOTE: Instructions on how to paste image on github taken from github documentation: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
