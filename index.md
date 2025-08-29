@@ -1,4 +1,4 @@
-# This is all about me!
+Mytri's First CS193 Homework
 
 ## Introduction:
 
