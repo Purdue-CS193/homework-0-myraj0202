@@ -11,9 +11,11 @@ My name is Mytri Rajendran. I am a freshman attending Purdue in Indianapolis, ho
 - __Major:__ BS in computer science
 - __Website for more details:__ [https://example.com]
 
-### Markdown
+## A random picture
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a random picture:
+
+![Stock image of a scenic view](https://plus.unsplash.com/premium_photo-1668024966086-bd66ba04262f?q=80&w=2692&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ```markdown
 Syntax highlighted code block
