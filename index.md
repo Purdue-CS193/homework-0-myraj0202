@@ -17,4 +17,4 @@ Here is a random picture:
 
 ![Stock image of a scenic view](https://plus.unsplash.com/premium_photo-1668024966086-bd66ba04262f?q=80&w=2692&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-`rgb(255,0,0)` NOTE: All formatting elements had been referenced using the following github documentation website: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+NOTE: All formatting elements had been referenced using the following github documentation website: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
